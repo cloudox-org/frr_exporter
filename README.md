@@ -1,8 +1,8 @@
-# Artifactory Exporter
+# Free Range Routing (FRR) Exporter
 
-[![RPM builds for EL8, EL9 and EL10](https://github.com/cloudox-org/artifactory_exporter/actions/workflows/rpm-build.yml/badge.svg?branch=main)](https://github.com/cloudox-org/artifactory_exporter/actions/workflows/rpm-build.yml)
+[![RPM builds for EL8, EL9 and EL10](https://github.com/cloudox-org/frr_exporter/actions/workflows/rpm-build.yml/badge.svg?branch=main)](https://github.com/cloudox-org/frr_exporter/actions/workflows/rpm-build.yml)
 
-Artifactory Exporter RPM builds for EL8,EL9 and EL10
+Free Range Routing (FRR) Exporter RPM builds for EL8,EL9 and EL10
 
 RPM repo available here:
 
