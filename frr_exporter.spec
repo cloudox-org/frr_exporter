@@ -3,7 +3,7 @@
 %global group frr
 
 Name: frr_exporter
-Version: 1.11.0
+Version: v1.12.0
 Release: 1%{?dist}
 Summary: Prometheus exporter for FRR metrics
 License: MIT
@@ -54,6 +54,8 @@ exit 0
 %{_unitdir}/%{name}.service
 
 %changelog
+* Thu Aug 06 2026 Ivan Garcia <igarcia@cloudox.org> - 1.12.0
+- Initial packaging for the 1.12.0 branch
 * Wed Apr 08 2026 Ivan Garcia <igarcia@cloudox.org> - 1.11.0
 - Initial packaging for the 1.11.0 branch
 * Tue Mar 31 2026 Ivan Garcia <igarcia@cloudox.org> - 1.10.1
